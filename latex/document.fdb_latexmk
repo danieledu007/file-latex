@@ -1,0 +1,20 @@
+# Fdb version 4
+["pdflatex"] 1732049480.02519 "c:/Users/daniel/Desktop/vscode/latex/document.tex" "document.pdf" "document" 1732049480.4875 0
+  "c:/Users/daniel/Desktop/vscode/latex/document.tex" 1732049479 80 fc8e91c6f568bbfbc98cbdd00a7bc01c ""
+  "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1731945921 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1731945294 1288 655e228510b4c2a1abe905c368440826 ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1731944697 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "c:/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1731946462 20144 d7d3a15c7efd9458741458961c8a96e7 ""
+  "c:/texlive/2024/texmf-dist/tex/latex/base/size12.clo" 1731946462 8449 c69e49af7cb761638914bc5dddad142a ""
+  "c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1731946436 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1731944616 42021 a58d36c7ede3d2fc9f93da62d691ddff ""
+  "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1731948650 5521136 47e49b84c41d5ab3414c7e2d0ef6eb2b ""
+  "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1731949404 3342994 6f70585dfb0cfb30c296451aa1377f14 ""
+  "c:/texlive/2024/texmf.cnf" 1731948637 713 e69b156964470283e0530f5060668171 ""
+  "document.aux" 1732049480 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "document.tex" 1732049479 80 fc8e91c6f568bbfbc98cbdd00a7bc01c ""
+  (generated)
+  "document.aux"
+  "document.log"
+  "document.pdf"
+  (rewritten before read)
