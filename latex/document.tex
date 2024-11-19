@@ -1,9 +1,11 @@
 \documentclass[12pt]{article}
+\usepackage{graphicx}
+\raggedbottom
 \author{Daniel,Youseff}
 \title{Esempio della regressione lineare usando l'andamento del prezzo degli stock di nvidia}
 \begin{document}
 \maketitle
-\section{cenni teorici}
+\section*{Cenni teorici}
 La regressione lineare è un metodo statistico utilizzato per modellare la relazione tra una variabile dipendente
 \textbf{Y} (detta anche risposta o output) e una o più variabili indipendenti 
 \textbf{X} (dette anche predittori o input). Lo scopo principale è stimare una funzione lineare che descriva come \textbf{Y} 
@@ -19,11 +21,20 @@ varia al variare di \textbf{X}.
     \item \begin{math} \mathbf{\beta_1}\end{math}:coefficiente angolare (indica quanto cambia \textbf{Y} per ogni unità
           di incremento in \textbf{X}).
     \item \begin{math}\mathbf{\varepsilon}\end{math}:termine di errore, che rappresenta la differenza
-          tra il valore osservato e quello previsto dal modello.
+          tra il valore osservato e quello previsto dal modello.       
 \end{itemize}
-\subsection*{
+\newpage
 \begin{center}
     Esempio:
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=\textwidth]{immagini/Screenshot 2024-11-20 000800.png}
+\end{figure}
+in questo esempio possiamo vedere l'andamento del prezzo degli stock di nvidia in base alla data
 \end{center}
-}
+\section*{Conclusione:}
+La regressione lineare è un metodo per analizzare relazioni tra variabili e fare previsioni. Viene usata in economia, ingegneria, medicina, ambiente e finanza 
+per stimare cambiamenti e comprendere fenomeni. Il modello lineare consente di identificare come una variabile dipende da un'altra. È semplice, versatile e applicabile 
+in molti ambiti.
 \end{document}
