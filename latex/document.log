@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.18)  20 NOV 2024 21:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.18)  20 NOV 2024 21:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -96,21 +96,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-<immagini/Screenshot 2024-11-20 000800.png, id=14, 784.43062pt x 428.35031pt>
+
+[2]
+<immagini/Screenshot 2024-11-20 000800.png, id=17, 784.43062pt x 428.35031pt>
 File: immagini/Screenshot 2024-11-20 000800.png Graphic file (type png)
 <use immagini/Screenshot 2024-11-20 000800.png>
-Package pdftex.def Info: immagini/Screenshot 2024-11-20 000800.png  used on input line 32.
+Package pdftex.def Info: immagini/Screenshot 2024-11-20 000800.png  used on input line 35.
 (pdftex.def)             Requested size: 390.0pt x 212.96544pt.
-<immagini/Screenshot 2024-11-20 210756.png, id=16, 1000.48781pt x 454.69875pt>
+<immagini/Screenshot 2024-11-20 210756.png, id=19, 1000.48781pt x 454.69875pt>
 File: immagini/Screenshot 2024-11-20 210756.png Graphic file (type png)
 <use immagini/Screenshot 2024-11-20 210756.png>
-Package pdftex.def Info: immagini/Screenshot 2024-11-20 210756.png  used on input line 37.
+Package pdftex.def Info: immagini/Screenshot 2024-11-20 210756.png  used on input line 40.
 (pdftex.def)             Requested size: 390.0pt x 177.24854pt.
 
 
-[2 <./immagini/Screenshot 2024-11-20 000800.png> <./immagini/Screenshot 2024-11-20 210756.png>]
+[3 <./immagini/Screenshot 2024-11-20 000800.png> <./immagini/Screenshot 2024-11-20 210756.png>]
 
-[3] (./document.aux)
+[4] (./document.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
@@ -119,16 +121,16 @@ L3 programming layer <2024-11-02>
 Here is how much of TeX's memory you used:
  1337 strings out of 473362
  22221 string characters out of 5725050
- 410970 words of memory out of 5000000
+ 411970 words of memory out of 5000000
  24479 multiletter control sequences out of 15000+600000
  563888 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,235b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,7n,65p,245b,287s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on document.pdf (3 pages, 247518 bytes).
+Output written on document.pdf (4 pages, 248311 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 63 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
