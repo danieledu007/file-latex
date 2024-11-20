@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1732137250.19222 "c:/Users/daniel/Desktop/vscode/latex/document.tex" "document.pdf" "document" 1732137250.77738 0
-  "c:/Users/daniel/Desktop/vscode/latex/document.tex" 1732137249 4247 707c2d1b091ada783bde42d806b84f18 ""
+["pdflatex"] 1732137366.97447 "c:/Users/daniel/Desktop/vscode/latex/document.tex" "document.pdf" "document" 1732137367.54668 0
+  "c:/Users/daniel/Desktop/vscode/latex/document.tex" 1732137366 4247 707c2d1b091ada783bde42d806b84f18 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1731945300 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1731945921 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1731945649 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -45,8 +45,8 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1731948650 5521136 47e49b84c41d5ab3414c7e2d0ef6eb2b ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1731949404 3342994 6f70585dfb0cfb30c296451aa1377f14 ""
   "c:/texlive/2024/texmf.cnf" 1731948637 713 e69b156964470283e0530f5060668171 ""
-  "document.aux" 1732137250 507 b6bcda9db8c6173cccc04b71e671c6bd "pdflatex"
-  "document.tex" 1732137249 4247 707c2d1b091ada783bde42d806b84f18 ""
+  "document.aux" 1732137367 507 b6bcda9db8c6173cccc04b71e671c6bd "pdflatex"
+  "document.tex" 1732137366 4247 707c2d1b091ada783bde42d806b84f18 ""
   "immagini/Screenshot 2024-11-20 000800.png" 1732057696 65370 5189b1825a6f87e4920376fee3080ae8 ""
   "immagini/Screenshot 2024-11-20 210756.png" 1732133323 135856 d90cdd1bdaeb6c58784848aac60154eb ""
   (generated)
